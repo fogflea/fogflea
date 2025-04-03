@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fogflea
-- 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning NOTHING
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me NOTHING
-- 😄 Pronouns: NOTHING
-- ⚡ Fun fact: NOTHING
+在役OIer
 
 <!---
 fogflea/fogflea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
